@@ -8,7 +8,7 @@
   <img src="https://telegra.ph/file/cd40977754a80bcd31412.jpg">
 </p>
 
-<h2> Whats new ðŸ”¥ </h2>
+<h2> Whats new </h2>
 
 - Thumbnail Support
 - Playlist Support
@@ -19,7 +19,7 @@
 - Settings panel
 - Control with buttons
 
-### Commands ðŸ› 
+### Commands 
 #### For all in group
 
 - `/play <song name>` - play song you requested
